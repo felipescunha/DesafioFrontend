@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "createdAt": "2019-05-28T10:17:15.633Z",
+      "updatedAt": "2019-05-30T18:57:22.164Z",
+      "name": "ANPINA",
+      "email": "antonio.pina@tvglobo.com.br",
+      "regras": 1,
+      "status": "ativo"
+    },
+    {
+      "id": 2,
+      "createdAt": "2019-05-28T10:17:15.633Z",
+      "updatedAt": "2019-05-30T18:57:22.164Z",
+      "name": "CCHANG",
+      "email": "ciro.chang@tvglobo.com.br",
+      "regras": 1,
+      "status": "ativo"
+    },
+    {
+      "id": 3,
+      "createdAt": "2019-05-28T10:17:15.633Z",
+      "updatedAt": "2019-05-30T18:57:22.164Z",
+      "name": "TMARCAL",
+      "email": "thiago.marcal@tvglobo.com.br",
+      "regras": 1,
+      "status": "ativo"
+    },
+    {
+      "id": 4,
+      "createdAt": "2019-05-28T10:17:15.633Z",
+      "updatedAt": "2019-05-30T18:57:22.164Z",
+      "name": "ECGIANN",
+      "email": "ecgiannotto@tvglobo.com.br",
+      "regras": 1,
+      "status": "ativo"
+    },
+    {
+      "id": 5,
+      "createdAt": "2019-05-28T10:17:15.633Z",
+      "updatedAt": "2019-05-30T18:57:22.164Z",
+      "name": "YFERNAND",
+      "email": "yuri.vasquez@tvglobo.com.br",
+      "regras": 2,
+      "status": "ativo"
+    },
+    {
+      "id": 6,
+      "createdAt": "2019-05-28T10:17:15.633Z",
+      "updatedAt": "2019-05-30T18:57:22.164Z",
+      "name": "PLACERDA",
+      "email": "pedro.soares.lacerda@tvglobo.com.br",
+      "regras": 2,
+      "status": "ativo"
+    }
+  ]
+}
